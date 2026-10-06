@@ -1,0 +1,15 @@
+Warrior1
+Alice
+Bob
+Eve
+.
+Warrior2
+Eve
+Bob
+Alice
+.
+Warrior3
+Alice
+Eve
+Bob
+.
