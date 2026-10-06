@@ -50,3 +50,29 @@ From the project directory:
 rm -rf bin
 mkdir bin
 javac -d bin src/list/*.java src/Candidate.java src/DodgeballDraft.java
+
+java -cp bin DodgeballDraft
+
+
+### What my project should look like
+
+DS Project2
+├── README.md
+├── src
+│   ├── Candidate.java
+│   ├── DodgeballDraft.java
+│   └── list
+│       ├── DoubleLinkedList.java
+│       ├── DoubleNode.java
+│       └── Finger.java
+└── test-cases
+    ├── case1
+    │   ├── teams1.txt
+    │   ├── players1.txt
+    │   ├── results1.txt
+    │   └── myresults.txt
+    └── case2
+        ├── teams2.txt
+        ├── players2.txt
+        ├── results2.txt
+        └── myresults.txt
